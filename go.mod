@@ -1,2 +1,2 @@
 module example/main-zip
-go 1.18
+go 1.17

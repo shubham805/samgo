@@ -15,7 +15,6 @@ env:
   WORKING_DIRECTORY: '.'         # set this to the path to your path of working directory inside github repository, defaults to the repository root
   GO_VERSION: '1.18' 
 
-name: Build and deploy Python app
 jobs:
  build-and-deploy:
   runs-on: ubuntu-latest

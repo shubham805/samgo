@@ -11,5 +11,5 @@ func main() {
 }
 
 func HelloServer(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hello World from zip v4!")
+	fmt.Fprintf(w, "Hello World git deploy")
 }
